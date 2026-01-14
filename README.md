@@ -7,7 +7,7 @@
 
 **Non-Custodial Multi-Chain Asset Organization** is a **local-first, non-custodial blockchain asset management utility** written in **Rust**.
 
-The tool runs entirely in the **user’s local environment** and helps users **organize and consolidate on-chain assets** distributed across multiple addresses and multiple blockchain networks.
+runs entirely in the **user’s local environment** and helps users **organize and consolidate on-chain assets** distributed across multiple addresses and multiple blockchain networks.
 
 > ⚠️ This project is a **pure technical utility**.  
 > It does **not** provide custody, payment, clearing, escrow, or fund management services.
@@ -18,7 +18,7 @@ The tool runs entirely in the **user’s local environment** and helps users **o
 
 **非托管多链资产整理** 是一款基于 **Rust** 开发的 **本地运行、非托管** 的区块链资产整理。
 
-该工具运行在**用户自己的本地环境**中，用于帮助用户整理、归并分散在多个地址、多个区块链网络上的链上资产。
+运行在**用户自己的本地环境**中，用于帮助用户整理、归并分散在多个地址、多个区块链网络上的链上资产。
 
 > ⚠️ 本项目仅为**技术工具软件**，  
 > 不提供任何形式的资金托管、支付、清算或资金管理服务。
