@@ -74,8 +74,13 @@ runs entirely in the **user’s local environment** and helps users **organize a
 
 Supported networks include:
 
-- Arbitrum  (Layer 2)
-- TRON / TRC20
+### TRC20
+- Tron Mainnet
+- Tron Nile Testnet
+
+### ERC20
+- Arbitrum One (Layer 2)
+- Arbitrum Sepolia (Testnet)
 
 ---
 
